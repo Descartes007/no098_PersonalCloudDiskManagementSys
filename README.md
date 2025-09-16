@@ -1,4 +1,4 @@
-<h1 align="center">基于SpringBoot框架的个人云盘管理系统【带论文】</h1></p>
+<h1 align="center">{1}</h1></p>
 
 - <b>完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))</b>
 - <b>技术探讨、资料分享，请加QQ群：692619798</b>
@@ -9,71 +9,49 @@
 
 ## 一、项目介绍
 
-### 基于SpringBoot框架的个人云盘管理系统，系统角色为管理员、用户，主要功能如下
-### 管理员：
-- 基本操作：登录、修改密码、获取个人信息、修改个人信息、退出登录
-- 博客管理：筛选博客、获取博客列表、查看博客详情、新增博客、删除博客、修改博客
-- 博客收藏管理：筛选收藏、获取收藏列表、查看收藏详情、新增收藏、删除收藏、修改收藏
-- 论坛管理：筛选帖子、获取帖子列表、查看帖子详情、发布帖子、删除帖子、修改帖子、设置帖子状态
-- 新闻管理：筛选新闻、获取新闻列表、查看新闻详情、新增新闻、删除新闻、修改新闻
-- 视频管理：筛选视频、获取视频列表、查看视频详情、新增视频、删除视频、修改视频
-- 书籍管理：筛选书籍、获取书籍列表、查看书籍详情、新增书籍、删除书籍、修改书籍
-### 用户管理（前台用户）：筛选用户、获取用户列表、查看用户详情、新增用户、删除用户、修改用户、重置密码
-### 管理员账号管理：筛选管理员、获取管理员列表、查看管理员详情、新增管理员、删除管理员、修改管理员、重置密码
-- 用户：
-- 基本操作：登录、注册、修改密码、获取个人信息、修改个人信息、退出登录
-- 博客管理：获取博客列表、查看博客详情、发布博客、删除博客、修改博客
-- 博客收藏管理：收藏博客、取消收藏、查看收藏列表、查看收藏详情
-- 论坛管理：获取帖子列表、查看帖子详情、发布帖子、删除帖子、修改帖子
-- 新闻浏览：获取新闻列表、查看新闻详情
-- 视频浏览：获取视频列表、查看视频详情
-- 书籍浏览：获取书籍列表、查看书籍详情
+{2}
+
+### {3}
+
+- {4}
 
 ## 二、项目技术
 
-- 编程语言：Java
-- 项目架构：B/S架构
-- 前端技术：Vue 2.x、ElementUI、Vue Router、Axios、Vue Quill Editor
-- 后端技术：Spring Boot、Spring MVC、MyBatis、MyBatis-Plus、MySQL
+- {5}
 
 
 ## 三、运行环境
 
-- JDK版本：1.8及以上都可以
-- 操作系统：Windows7/10、MacOS
-- 开发工具：IDEA、Ecplise、MyEclipse都可以
+- {6}
 
 ## 四、数据库配置文件
 
-- npm版本：6.14.13及以上都可以
-- Redis版本：3.2.100及以上都可以
-- 文件名：application.yml
-- 编码类型：utf8
+- {7}
 
 ## 论文截图
 
-![](screenshot/1.png)
+![](screenshot/1.jpg)
 
-![](screenshot/2.png)
+![](screenshot/2.jpg)
 
 ## 系统截图
 
-![](screenshot/3.png)
+![](screenshot/3.jpg)
 
-![](screenshot/4.png)
+![](screenshot/4.jpg)
 
-![](screenshot/5.png)
+![](screenshot/5.jpg)
 
-![](screenshot/6.png)
+![](screenshot/6.jpg)
 
-![](screenshot/7.png)
+![](screenshot/7.jpg)
 
-![](screenshot/8.png)
+![](screenshot/8.jpg)
 
-![](screenshot/9.png)
+![](screenshot/9.jpg)
 
-![](screenshot/10.png)
+![](screenshot/10.jpg)
 
-![](screenshot/11.png)
+![](screenshot/11.jpg)
 
-![](screenshot/12.png)
+![](screenshot/12.jpg)
